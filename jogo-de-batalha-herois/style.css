@@ -1,0 +1,52 @@
+body {
+  background: url("https://www.animativa.com/wp-content/uploads/2024/10/os-10-viloes-mais-crueis-da-marvel-1.webp") no-repeat center
+    center fixed;
+  background-size: cover;
+  font-family: "Gabarito", sans-serif;
+  margin: 20px;
+}
+
+/* Títulos e textos */
+h2,
+p {
+  color: rgb(65, 0, 0);
+  background-color: rgba(207, 200, 200, 0.5);
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px 40px;
+  border-radius: 8px;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content h2 {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #c70404;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  
+}
+
+button:hover {
+  background: #7c0899;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+}
