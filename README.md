@@ -6,7 +6,7 @@ Este repositório reúne pequenos projetos desenvolvidos com **JavaScript puro**
 
 ### 1. Conversor de Moedas
 
-Um conversor simples que transforma valores de **Won sul-coreano (₩)**, **Dólar americano (US$)** e **Euro (€)** para **Real brasileiro (R$)**.  
+Um conversor simples que transforma valores de **Won sul-coreano (₩)**, **Dólar americano (US$)** e **Euro (€)** para **Real brasileiro (R$)**. 
 Ideal para treinar lógica de cálculo, estrutura condicional e manipulação de eventos no JavaScript.
 
 #### 💡 Funcionalidades:
@@ -14,7 +14,18 @@ Ideal para treinar lógica de cálculo, estrutura condicional e manipulação de
 - Três moedas disponíveis para conversão
 - Interface básica e objetiva
 
-#### 🛠 Tecnologias utilizadas:
+### 2. 🎮 Jogos de Escolha
+Projeto com dois jogos interativos que usam lógica simples e aleatoriedade:
+
+- **Jogo de portas**: Escolha a porta certa, são 3 níveis para vencer.
+- **Pedra, Papel e Tesoura**: Jogue contra o computador e veja quem vence.
+
+#### 💡 Funcionalidades:
+- Interação com botões e entrada de dados
+- Geração de números aleatórios
+- Feedback instantâneo de vitória ou derrota
+
+### 🛠 Tecnologias utilizadas:
 - HTML
 - CSS
 - JavaScript
